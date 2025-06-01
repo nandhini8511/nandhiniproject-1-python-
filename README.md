@@ -1,4 +1,4 @@
-# nandhiniproject-1-python-
+#micro it project 1-
 import random
 
 def get_computer_choice():
